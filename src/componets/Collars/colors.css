@@ -1,0 +1,475 @@
+
+
+
+
+
+
+
+.ClothingAndShoes-main-div{
+    width: 800px;
+    min-height: 275px;
+    border: 1px solid red;
+   margin: 40px 80px 0px auto;
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+.cloth-pic{
+    width: 200px;
+    height: 200px;
+    margin-top: 34px;
+}
+
+.cloth-desc{
+    width: 150px;
+    font-size: 0.7em;
+}
+
+.cloth-price{
+    color: darkblue;
+}
+
+.cloth-title{
+    width: 500px;
+}
+
+.ClothingAndShoes-main-div-title{
+    margin-left: 30px;
+}
+
+.cloth-btn-main-div{
+display: flex;
+gap: 10px;
+}
+
+.cloth-btn-main{
+    width: 40px;
+    height: 40px;
+    border: 1px solid gray;
+    text-align: center;
+    transition: 0.4s linear 0s;
+
+}
+
+.cloth-icon{
+    font-size: 1.4em;
+    margin-top:9px;
+
+}
+
+.cloth-btn-main-1 button{
+    width: 140px;
+    height: 43px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: 0.4s linear 0s;
+}
+
+.cloth-icon:hover{
+    color: white;
+}
+
+.cloth-btn-main:hover{
+    background-color: #5278b8;
+}
+
+.cloth-btn-main-1 button:hover{
+    background-color: #5278b8;
+}
+
+
+@media(max-width:828px){
+    .ClothingAndShoes-main-div{
+        width: 700px;
+        min-height: 275px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+    .cloth-title{
+        width: 400px;
+    }
+    
+}
+
+@media(max-width:770px){
+    .ClothingAndShoes-main-div{
+        width: 600px;
+        height: 300px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+
+    .cloth-title{
+        width: 290px;
+    }
+    
+}
+@media(max-width:679px){
+    .ClothingAndShoes-main-div{
+        width: 500px;
+        height: 280px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+    .cloth-pic{
+        width: 150px;
+        height: 150px;
+        margin-top: 50px;
+    }
+    
+    .cloth-title{
+        width: 300px;
+    }
+}
+@media(max-width:540px){
+    .ClothingAndShoes-main-div{
+        width: 450px;
+        height: 180px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+    .cloth-pic{
+        width: 150px;
+        height: 150px;
+        margin-top: 50px;
+    }
+    
+    .cloth-title{
+        width: 250px;
+        font-size: 0.9em;
+    }
+
+    .cloth-btn-main{
+        width: 30px;
+        height: 30px;
+        border: 1px solid gray;
+        text-align: center;
+        transition: 0.4s linear 0s;
+    
+    }
+    .cloth-desc{
+        width: 150px;
+        font-size: 0.6em;
+    }
+
+    .cloth-icon{
+        font-size: 1.3em;
+        margin-top:5px;
+    
+    }
+    
+.cloth-btn-main-1 button{
+    width: 100px;
+    height: 32px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: 0.4s linear 0s;
+}
+}
+@media(max-width:429px){
+    .ClothingAndShoes-main-div{
+        width: 180px;
+        height: 250px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+    .cloth-pic{
+        width: 130px;
+        height: 130px;
+        margin-top: 60px;
+    }
+    
+    .cloth-title{
+        width: 200px;
+        font-size: 0.9em;
+    }
+
+    .cloth-btn-main{
+        width: 30px;
+        height: 30px;
+        border: 1px solid gray;
+        text-align: center;
+        transition: 0.4s linear 0s;
+    
+    }
+    .cloth-desc{
+        width: 150px;
+        font-size: 0.6em;
+    }
+
+    .cloth-icon{
+        font-size: 1.3em;
+        margin-top:5px;
+    
+    }
+    
+.cloth-btn-main-1 button{
+    width: 100px;
+    height: 32px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: 0.4s linear 0s;
+}
+}
+@media(max-width:540px){
+    .ClothingAndShoes-main-div{
+        width: 400px;
+        height: 190px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+    .cloth-pic{
+        width: 130px;
+        height: 130px;
+        margin-top: 60px;
+    }
+    
+    .cloth-title{
+        width: 200px;
+        font-size: 0.9em;
+    }
+
+    .cloth-btn-main{
+        width: 30px;
+        height: 30px;
+        border: 1px solid gray;
+        text-align: center;
+        transition: 0.4s linear 0s;
+    
+    }
+    .cloth-desc{
+        width: 150px;
+        font-size: 0.6em;
+    }
+
+    .cloth-icon{
+        font-size: 1.3em;
+        margin-top:5px;
+    
+    }
+    
+.cloth-btn-main-1 button{
+    width: 100px;
+    height: 32px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: 0.4s linear 0s;
+}
+}
+@media(max-width:429px){
+    .ClothingAndShoes-main-div{
+        width: 180px;
+        height: 250px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+    .cloth-pic{
+        width: 130px;
+        height: 130px;
+        margin-top: 60px;
+    }
+    
+    .cloth-title{
+        width: 200px;
+        font-size: 0.9em;
+    }
+
+    .cloth-btn-main{
+        width: 30px;
+        height: 30px;
+        border: 1px solid gray;
+        text-align: center;
+        transition: 0.4s linear 0s;
+    
+    }
+    .cloth-desc{
+        width: 150px;
+        font-size: 0.6em;
+    }
+
+    .cloth-icon{
+        font-size: 1.3em;
+        margin-top:5px;
+    
+    }
+    
+.cloth-btn-main-1 button{
+    width: 100px;
+    height: 32px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: 0.4s linear 0s;
+}
+}
+@media(max-width:416px){
+    .ClothingAndShoes-main-div{
+        width: 350px;
+        height: 190px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+    .cloth-pic{
+        width: 100px;
+        height: 100px;
+        margin-top: 70px;
+    }
+    
+    .cloth-title{
+        width: 200px;
+        font-size: 0.9em;
+    }
+
+    .cloth-btn-main{
+        width: 25px;
+        height: 25px;
+        border: 1px solid gray;
+        text-align: center;
+        transition: 0.4s linear 0s;
+    margin-top: 20px;
+
+    
+    }
+    .cloth-desc{
+        width: 150px;
+        font-size: 0.5em;
+    margin-top: 20px;
+
+    }
+
+    .cloth-icon{
+        font-size: 1.1em;
+        margin-top:4px;
+    
+    }
+    
+.cloth-btn-main-1 button{
+    width: 90px;
+    height: 27px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: 0.4s linear 0s;
+    margin-top: 20px;
+}
+}
+@media(max-width:363px){
+    .ClothingAndShoes-main-div{
+        width: 320px;
+        height: 190px;
+        border: 1px solid red;
+       margin: 40px auto;
+        display: flex;
+        /* justify-content: space-around; */
+    }
+    .cloth-pic{
+        width: 100px;
+        height: 100px;
+        margin-top: 70px;
+    }
+    
+    .cloth-title{
+        width: 190px;
+        font-size: 0.9em;
+    }
+
+    .cloth-btn-main{
+        width: 25px;
+        height: 25px;
+        border: 1px solid gray;
+        text-align: center;
+        transition: 0.4s linear 0s;
+    margin-top: 0px;
+
+    
+    }
+    .cloth-desc{
+        width: 150px;
+        font-size: 0.5em;
+    margin-top: 0px;
+
+    }
+
+    .cloth-icon{
+        font-size: 1.1em;
+        margin-top:4px;
+    
+    }
+    
+.cloth-btn-main-1 button{
+    width: 90px;
+    height: 27px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: 0.4s linear 0s;
+    margin-top: 00px;
+}
+}
+
+.clothingAndShoes-Sort-heding{
+    border-bottom: 1px solid gray;
+    width: 70px;
+}
+.clothingAndShoes-Sort{
+    width: 160px;
+    /* background-color: antiquewhite; */
+    position: absolute;
+    top: 263px;
+    left: 100px;
+}
+
+.clothingAndShoes-Sort-select{
+    width: 150px;
+    height: 30px;
+}
+.row{
+    border: 1px solid gray;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+}
+
+.line{
+    margin-top: 10px;
+}
+
+.row-and-colom{
+    display: flex;
+    gap: 10px;
+}
+
+.row:hover{
+    background-color: #5278b8;
+}
+.line:hover{
+    color: white;
+}
+
+@media(max-width:1166px){
+    .clothingAndShoes-Sort{
+        display: none;
+    }
+}
+
+
