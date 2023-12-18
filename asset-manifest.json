@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myProject-5AztekCoputers/static/css/main.59d84879.css",
+    "main.js": "/myProject-5AztekCoputers/static/js/main.c1d29c99.js",
+    "static/js/787.1937f22b.chunk.js": "/myProject-5AztekCoputers/static/js/787.1937f22b.chunk.js",
+    "index.html": "/myProject-5AztekCoputers/index.html",
+    "main.59d84879.css.map": "/myProject-5AztekCoputers/static/css/main.59d84879.css.map",
+    "main.c1d29c99.js.map": "/myProject-5AztekCoputers/static/js/main.c1d29c99.js.map",
+    "787.1937f22b.chunk.js.map": "/myProject-5AztekCoputers/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59d84879.css",
+    "static/js/main.c1d29c99.js"
+  ]
+}
